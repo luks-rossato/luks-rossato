@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luks-rossato
 - 👀 I’m interested in learning new features and develop myself
-- 🌱 I’m currently learning Computer Science on State University of Londrina
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently getting my degree in Computer Science on State University of Londrina
+- 💞️ I’m currently learning C, Python and willing to start learning new stuffs.
 - 📫 Want to reach me? Call me on: linkedin.com/in/lucas-rossato/
 
 <!---
